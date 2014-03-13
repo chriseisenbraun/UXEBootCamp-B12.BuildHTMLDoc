@@ -1,43 +1,41 @@
 <!DOCTYPE html>
-<html class="no-js">
+
 <head>
 	<meta charset="utf-8" />
 	<title>Avada - About Us Page 1</title>
-	 <meta name="description" content="This is the best shit. ever.">
 </head>
 
 <body>
 	<header>
 		<h1>Avada:</h1>
 		<nav>
-			<a href="#{}">Home</a>
-			<a href="#{}">Sliders</a>
-			<a href="#{}">Headers</a>
-			<a href="#{}">Pages</a>
-			<a href="#{}">Portfolio</a>
-			<a href="#{}">Blog</a>
-			<a href="#{}">Shop</a>
-			<a href="#{}">Features</a>
-			<a href="#{}">Shortcodes</a>
-			<a href="#{}">cart</a>
-			<a href="#{}">search</a>
+			<a href="">Home</a>
+			<a href="">Sliders</a>
+			<a href="">Headers</a>
+			<a href="">Pages</a>
+			<a href="">Portfolio</a>
+			<a href="">Blog</a>
+			<a href="">Shop</a>
+			<a href="">Features</a>
+			<a href="">Shortcodes</a>
+			<ul>
+				<li>cart</li>
+				<li>search</li>
+			</ul>
 		</nav>
 
-		<section role="title page">
-			<title>About Us Page</title>
-			<nav>
-				<a href="#{}">Home</a> / 
-				<a href="#{}">About Us</a>
-			</nav>
+		<section>
+			<h1>About Us Page</h1>
+			<h4>Home / About Us</h4>
 		</section>
 	</header>
 
-	<section role="main body">
+	<section>
 		<figure>
-			<video src="/video.mp4" alt="slidevideo">
-			<img src="/pic2.jpg" alt="slidepic2">
-			<img src="/pic3.jpg" alt="slidepic3">
-			<img src="/pic4.jpg" alt="slidepic4">
+			<img src= />
+			<img src= />
+			<img src= />
+			<img src= />
 		</figure>
 
 		<article>
@@ -48,114 +46,54 @@
 		<article>
 			<h1>Our Crazy Skills</h1>
 			<ul>
-				<li><progress value="90" max="100">Web Design</progress></li>
-				<li><progress value="95" max="100">HTML/CSS</progress></li>
-				<li><progress value="85" max="100">Graphic Design</progress></li>
-				<li><progress value="75" max="100">WordPress</progress></li>
+				<li>Web Design</li>
+				<li>HTML/CSS</li>
+				<li>Graphic Design</li>
+				<li>WordPress</li>
 			</ul>
 		</article>
 
 		<article>
 			<h1>Who Is Avada</h1>
-			<nav>
-				<a href="#{}">Our Company Mission</a>
-				<a href="#{}">The Acada Philosophy</a>
-				<a href="#{}">The Avada Promise</a>
-				<a href="#{}">We Can Delivery On Projects</a>
-			</nav>
+			<ul>
+				<li>Our Company Mission</li>
+				<li>The Acada Philosophy</li>
+				<li>The Avada Promise</li>
+				<li>We Can Delivery On Projects</li>
+			</ul>
 		</article>
 
 		<article>
 			<h1>Meet Our Team</h1>
-			<figure>
-				<img src="/john.jpg" alt="John Doe">
-				<figcaption>
-					<ul>
-						<li>John Doe</li>
-						<li>Developer</li>
-					</ul>
-					<ul>
-						<li><a href="#{}">dribble</a></li>
-						<li><a href="#{}">linkedin</a></li>
-						<li><a href="#{}">twitter</a></li>
-						<li><a href="#{}">facebook</a></li>
-					</ul>
-					<p>Redantium, totam rem aperiam, eaque ipsa qu ab illo inventore veritatis et quasi architectos beatae vitae dicta sunt explicabo. Nemo enims sadips ipsums un.</p>
-				</figcaption>
-			</figure>
-			<figure>
-				<img src="/john.jpg" alt="John Doe">
-				<figcaption>
-					<ul>
-						<li>John Doe</li>
-						<li>Developer</li>
-					</ul>
-					<ul>
-						<li><a href="#{}">dribble</a></li>
-						<li><a href="#{}">linkedin</a></li>
-						<li><a href="#{}">twitter</a></li>
-						<li><a href="#{}">facebook</a></li>
-					</ul>
-					<p>Redantium, totam rem aperiam, eaque ipsa qu ab illo inventore veritatis et quasi architectos beatae vitae dicta sunt explicabo. Nemo enims sadips ipsums un.</p>
-				</figcaption>
-			</figure>
-			<figure>
-				<img src="/john.jpg" alt="John Doe">
-				<figcaption>
-					<ul>
-						<li>John Doe</li>
-						<li>Developer</li>
-					</ul>
-					<ul>
-						<li><a href="#{}">dribble</a></li>
-						<li><a href="#{}">linkedin</a></li>
-						<li><a href="#{}">twitter</a></li>
-						<li><a href="#{}">facebook</a></li>
-					</ul>
-					<p>Redantium, totam rem aperiam, eaque ipsa qu ab illo inventore veritatis et quasi architectos beatae vitae dicta sunt explicabo. Nemo enims sadips ipsums un.</p>
-				</figcaption>
-			</figure>
-		</article>
-
-		<article>
-			<form action="" method="post">
-    		<fieldset>
-       		<legend>Contact Us</legend>
-        	<div>
-          	<label for="name">Name:</label>
-          	<input id="name" name="name" value="" required  pattern="[A-Za-z-0-9]+\s[A-Za-z-'0-9]+" title="firstname lastname" aria-required="true" aria-describedby="name-format">
-            <span id="name-format" class="help">Format: firstname lastname</span>
-        	</div>
-        	<div>
-          	<label for="email">Email:</label>
-          	<input type="email" id="email" name="email" value="" required aria-required="true">
-        	</div>
-        	<div>
-          	<label for="website">Website:</label>
-          	<input type="url" id="website" name="website" value="">
-        	</div>
-        	<div>
-           	<label for="message">Message:</label>
-            <input type="text" id="message" name="message" value="" required>
-        	</div>
-        	<div class="submit">
-            <input type="submit" value="Submit">
-        	</div>
-    		</fieldset>
-			</form>
+			<figure><img src= /></figure>
+			<figcaption>
+				<h3>John Doe Developer 1 2 3 4</h3>
+				<p>Redantium, totam rem aperiam, eaque ipsa qu ab illo inventore veritatis et quasi architectos beatae vitae dicta sunt explicabo. Nemo enims sadips ipsums un.</p>
+			</figcaption>
+			<figure><img src= /></figure>
+			<figcaption>
+				<h3>John Doe Developer 1 2 3 4</h3>
+				<p>Redantium, totam rem aperiam, eaque ipsa qu ab illo inventore veritatis et quasi architectos beatae vitae dicta sunt explicabo. Nemo enims sadips ipsums un.</p>
+			</figcaption>
+			<figure><img src= /></figure>
+			<figcaption>
+				<h3>John Doe Developer 1 2 3 4</h3>
+				<p>Redantium, totam rem aperiam, eaque ipsa qu ab illo inventore veritatis et quasi architectos beatae vitae dicta sunt explicabo. Nemo enims sadips ipsums un.</p>
+			</figcaption>
 		</article>
 
 		<article>
 			<h1>Our Happy Clients</h1>
 			<ul>
-				<li><a href="#{}"><img src="/shift.jpg" alt="shift logo"></a></li>
-				<li><a href="#{}"><img src="/envato.jpg" alt="envato logo"></a></li>
-				<li><a href="#{}"><img src="/threeleaves.jpg" alt="three leaves logo"></a></li>
-				<li><a href="#{}"><img src="/sparrow.jpg" alt="sparrow logo"></a></li>
-				<li><a href="#{}"><img src="/oc.jpg" alt="oc logo"></a></li>
+				<li>Shift</li>
+				<li>Envato</li>
+				<li>Three Leaves</li>
+				<li>Sparrow</li>
+				<li>OC</li>
 			</ul>
 		</article>
 	</section>
+
 
 	<footer>
 		<div>
@@ -167,11 +105,11 @@
 			<div>
 				<h2>Recent Posts</h2>
 				<ul>
-					<li><a href="#{}">Blog Slideshow Post</a></li>
-					<li><a href="#{}">Aenean Odio Mauris</a></li>
-					<li><a href="#{}">Blog Image Post</a></li>
-					<li><a href="#{}">Blog Video Post</a></li>
-					<li><a href="#{}">Donec Suscipit Dim Euismods</a></li>
+					<li>Blog Slideshow Post</li>
+					<li>Aenean Odio Mauris</li>
+					<li>Blog Image Post</li>
+					<li>Blog Video Post</li>
+					<li>Donec Suscipit Dim Euismods</li>
 				</ul>
 			</div>
 
@@ -186,30 +124,19 @@
 			<div>
 				<h2>Recent Works</h2>
 				<ul>
-					<li><img src="/client1.jpg" alt=""></li>
-					<li><img src="/client2.jpg" alt=""></li>
-					<li><img src="/client3.jpg" alt=""></li>
-					<li><img src="/client4.jpg" alt=""></li>
-					<li><img src="/client5.jpg" alt=""></li>
-					<li><img src="/client6.jpg" alt=""></li>
+					<img src />
+					<img src />
+					<img src />
+					<img src />
+					<img src />
+					<img src />
 				</ul>
 			</div>
 		</div>
 
 		<div>
-			<p>Copyright 2012 - 2014 Avada Theme by 
-				<a href="#{}">Theme Fusion</a>
-				| All Rights Reserved | Powered by 
-				<a href="#{}">WordPress</a></p>
-			<ul>
-				<li><a href="#{}">v</a></li>
-				<li><a href="#{}">p</a></li>
-				<li><a href="#{}">d</a></li>
-				<li><a href="#{}">r</a></li>
-				<li><a href="#{}">l</a></li>
-				<li><a href="#{}">t</a></li>
-				<li><a href="#{}">f</a></li>
-			</ul>
+			<p>Copyright 2012 - 2014 Avada Theme by Theme Fusion | All Rights Reserved | Powered by WordPress<p>
+			<p>1 2 3 4 5 6 7</p>
 		</div>
 	</footer>
 
