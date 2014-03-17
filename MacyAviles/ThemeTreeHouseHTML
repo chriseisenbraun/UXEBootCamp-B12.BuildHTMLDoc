@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+
+<head>
+	<meta charset="utf-8" />
+	<title>Avada - About Us Page 1</title>
+</head>
+
+<body>
+	<header>
+		<h1>Avada:</h1>
+		<nav>
+			<a href="">Home</a>
+			<a href="">Sliders</a>
+			<a href="">Headers</a>
+			<a href="">Pages</a>
+			<a href="">Portfolio</a>
+			<a href="">Blog</a>
+			<a href="">Shop</a>
+			<a href="">Features</a>
+			<a href="">Shortcodes</a>
+			<ul>
+				<li>cart</li>
+				<li>search</li>
+			</ul>
+		</nav>
+
+		<section>
+			<h1>About Us Page</h1>
+			<h4>Home / About Us</h4>
+		</section>
+	</header>
+
+	<section>
+		<figure>
+			<img src= />
+			<img src= />
+			<img src= />
+			<img src= />
+		</figure>
+
+		<article>
+			<h1>Welcome To Avada</h1>
+			<p>Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore dolore magnm aliquam quaerat voluptatem.</p>
+		</article>
+
+		<article>
+			<h1>Our Crazy Skills</h1>
+			<ul>
+				<li>Web Design</li>
+				<li>HTML/CSS</li>
+				<li>Graphic Design</li>
+				<li>WordPress</li>
+			</ul>
+		</article>
+
+		<article>
+			<h1>Who Is Avada</h1>
+			<ul>
+				<li>Our Company Mission</li>
+				<li>The Acada Philosophy</li>
+				<li>The Avada Promise</li>
+				<li>We Can Delivery On Projects</li>
+			</ul>
+		</article>
+
+		<article>
+			<h1>Meet Our Team</h1>
+			<figure><img src= /></figure>
+			<figcaption>
+				<h3>John Doe Developer 1 2 3 4</h3>
+				<p>Redantium, totam rem aperiam, eaque ipsa qu ab illo inventore veritatis et quasi architectos beatae vitae dicta sunt explicabo. Nemo enims sadips ipsums un.</p>
+			</figcaption>
+			<figure><img src= /></figure>
+			<figcaption>
+				<h3>John Doe Developer 1 2 3 4</h3>
+				<p>Redantium, totam rem aperiam, eaque ipsa qu ab illo inventore veritatis et quasi architectos beatae vitae dicta sunt explicabo. Nemo enims sadips ipsums un.</p>
+			</figcaption>
+			<figure><img src= /></figure>
+			<figcaption>
+				<h3>John Doe Developer 1 2 3 4</h3>
+				<p>Redantium, totam rem aperiam, eaque ipsa qu ab illo inventore veritatis et quasi architectos beatae vitae dicta sunt explicabo. Nemo enims sadips ipsums un.</p>
+			</figcaption>
+		</article>
+
+		<article>
+			<h1>Our Happy Clients</h1>
+			<ul>
+				<li>Shift</li>
+				<li>Envato</li>
+				<li>Three Leaves</li>
+				<li>Sparrow</li>
+				<li>OC</li>
+			</ul>
+		</article>
+	</section>
+
+
+	<footer>
+		<div>
+			<div>
+				<h2>Avada</h2>
+				<p>Lorem ipsum ex vix illud nonummy, novum tation et his. At vix scriptaset patrioque scribentur, at pro fugit erts verterem molestiae, sed et vivendo ali Lorem ipsum ex vix illud nonummy, novum tation et his. At vix scripta patrioque scribentur...</p>
+			</div>
+
+			<div>
+				<h2>Recent Posts</h2>
+				<ul>
+					<li>Blog Slideshow Post</li>
+					<li>Aenean Odio Mauris</li>
+					<li>Blog Image Post</li>
+					<li>Blog Video Post</li>
+					<li>Donec Suscipit Dim Euismods</li>
+				</ul>
+			</div>
+
+			<div>
+				<h2>Recent Tweets</h2>
+				<ul>
+					<li>Tweet Username message time</li>
+					<li>Tweet Username message time</li>
+				</ul>
+			</div>
+
+			<div>
+				<h2>Recent Works</h2>
+				<ul>
+					<img src />
+					<img src />
+					<img src />
+					<img src />
+					<img src />
+					<img src />
+				</ul>
+			</div>
+		</div>
+
+		<div>
+			<p>Copyright 2012 - 2014 Avada Theme by Theme Fusion | All Rights Reserved | Powered by WordPress<p>
+			<p>1 2 3 4 5 6 7</p>
+		</div>
+	</footer>
+
+</body>
