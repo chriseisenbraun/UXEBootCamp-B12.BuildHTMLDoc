@@ -273,26 +273,26 @@
         <legend>Get in touch</legend>
         <p>Fill this out.</p>
         <div>
-          <label>
-            <span>Name:</span>
-            <input placeholder="Enter your name" type="text" tabindex="1" required autofocus>
+          <label for="name">
+            Name:
           </label>
+          <input placeholder="Enter your name" type="text" tabindex="1" id="name" required autofocus>
+        </div>
+        <div>
+          <label for="email">
+            Email:
+          </label>
+          <input placeholder="Enter your email address" type="email" tabindex="2" id="email" required>
+        </div>
+        <div>
+          <label for="phone">
+            Telephone:
+          </label>
+          <input placeholder="Enter your number" type="tel" tabindex="3" id="phone" required>
         </div>
         <div>
           <label>
-            <span>Email:</span>
-            <input placeholder="Enter your email address" type="email" tabindex="2" required>
-          </label>
-        </div>
-        <div>
-          <label>
-            <span>Telephone:</span>
-            <input placeholder="Enter your number" type="tel" tabindex="3" required>
-          </label>
-        </div>
-        <div>
-          <label>
-            <span>Message:</span>
+            Message:
             <textarea placeholder="What's wrong?" tabindex="5" required></textarea>
           </label>
         </div>
